@@ -1,0 +1,5 @@
+{
+  "name": "Mimicry AI",
+  "description": "Fine-tune a lightweight style model on your poetry or technical writing. Analyze your voice and generate new content in your unique style.",
+  "requestFramePermissions": []
+}
